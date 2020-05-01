@@ -1545,18 +1545,3 @@
 ( -176 -736 -16 ) ( -176 -736 -15 ) ( -176 -735 -16 ) 128_grey_2 -0 -0 -0 1 1
 }
 }
-// entity 10
-{
-"classname" "info_player_start"
-"origin" "208 32 24"
-}
-// entity 11
-{
-"classname" "monster_army"
-"origin" "416 -1248 24"
-}
-// entity 12
-{
-"classname" "monster_dog"
-"origin" "-512 -48 -152"
-}

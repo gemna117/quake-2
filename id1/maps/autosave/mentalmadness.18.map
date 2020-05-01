@@ -1555,8 +1555,3 @@
 "classname" "monster_army"
 "origin" "416 -1248 24"
 }
-// entity 12
-{
-"classname" "monster_dog"
-"origin" "-512 -48 -152"
-}
