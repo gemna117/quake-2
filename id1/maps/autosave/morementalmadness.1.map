@@ -1556,12 +1556,12 @@
 // entity 8
 {
 "classname" "info_player_start"
-"origin" "212 36 33"
+"origin" "213 37 40"
 }
 // entity 9
 {
 "classname" "monster_army"
-"origin" "416 -1248 24"
+"origin" "448 -1232 24"
 }
 // entity 10
 {
@@ -1600,4 +1600,9 @@
 ( -352 -576 16 ) ( -352 -576 17 ) ( -353 -576 16 ) 128_grey_2 -0 -0 180 1 -1
 ( -352 -736 -16 ) ( -352 -736 -15 ) ( -352 -735 -16 ) 128_grey_2 -0 -0 -0 1 1
 }
+}
+// entity 14
+{
+"classname" "info_player_deathmatch"
+"origin" "224 -48 24"
 }
